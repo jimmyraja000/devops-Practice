@@ -1,7 +1,2 @@
-print("jimmy"):
-print()
-print("loll")
-print("ter"):
-print("xx"):
+print("jj"):
 print("yy"):
- 
